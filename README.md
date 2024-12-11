@@ -170,6 +170,9 @@ password_gen.mainloop()
 ```
 
 ### How It Works:
-1. The user enters the password length and chooses whether they want repetition of characters.
+1. The user enters the password length and chooses whether they want a repetition of characters.
 2. When the **"Generate Password"** button is clicked, the password is generated using the specified parameters.
 3. The generated password is displayed in a read-only input field.
+
+   ![Screenshot (15)](https://github.com/user-attachments/assets/d5400532-c51e-4611-8fcf-73c6415614d5)
+
